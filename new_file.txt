@@ -3,3 +3,5 @@ test test test
 git text
 ---------------------
 b2: 1st commit
+---------------------
+b2: 2nd commit
