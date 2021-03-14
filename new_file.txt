@@ -1,7 +1,14 @@
 new new new
 test test test
 git text
+<<<<<< branch_2
 ---------------------
 b2: 1st commit
 ---------------------
 b2: 2nd commit
+=======
+-------------------
+b1: 1st commit
+-------------------
+b1: 2nd commit
+>>>>>> main
